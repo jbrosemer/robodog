@@ -5,3 +5,4 @@ servo = Servo(17)
 
 while True:
     servo.value = 0.5
+    print('servo')
